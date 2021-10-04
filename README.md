@@ -1,2 +1,1 @@
-# BMI-Index-
-Bmi data
+# BMI
